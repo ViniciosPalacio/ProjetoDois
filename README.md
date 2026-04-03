@@ -28,8 +28,4 @@ O banco de dados `banco.db` opera com relações bem definidas para evitar redun
 
 ## 🚀 Como Executar o Projeto Localmente
 
-**Pré-requisitos:** O ambiente deve possuir o Python 3.x instalado. Não é necessária a instalação de motores SQL externos.
-
-1. Clone o repositório para o seu chassi local:
-```bash
-git clone git@github.com:ViniciosPalacio/ProjetoDois.git
+**Pré-requisitos:** No momento não liberarei para instalação
